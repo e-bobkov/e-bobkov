@@ -9,7 +9,7 @@ My education: Master's Degree in Informatics and Computer Engineering.
 
 ![](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=ffde57)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/NodeJs-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Clojure-239120?style=for-the-badge&logo=clojure&logoColor=white)

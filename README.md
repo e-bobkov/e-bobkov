@@ -4,7 +4,7 @@ Now i'm Product Manager at [BeTON Foundation](https://beton.foundation),
 
 Backend developer commercial development experience 3 years
 
-Contact me [eugenijbobkov@gmail.com](malito:eugenijbobkov@gmail.com)
+Contact me [solar7455@gmail.com](mailto:solar7455@gmail.com)
 
 
 ## My tech stack

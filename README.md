@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Product Manager at ![BeTON Foundation](https://beton.foundation)
+I'm Product Manager at [BeTON Foundation](https://beton.foundation)
 
 ## My tech stack
 

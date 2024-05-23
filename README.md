@@ -20,3 +20,6 @@ Contact me [eugenijbobkov@gmail.com](mailto:eugenijbobkov@gmail.com)
 ![](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+## Github Stats
+![Metrics](/github-metrics.svg)
+

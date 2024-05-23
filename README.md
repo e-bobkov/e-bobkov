@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-I'm Product Manager at [BeTON Foundation](https://beton.foundation)
+Now i'm Product Manager at [BeTON Foundation](https://beton.foundation), 
+
+Backend developer commercial development experience 3 years
+
+Contact me [eugenijbobkov@gmail.com](malito:eugenijbobkov@gmail.com)
+
 
 ## My tech stack
 
